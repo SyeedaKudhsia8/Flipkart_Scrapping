@@ -39,10 +39,10 @@ Before you begin, ensure you have the following installed:
 
 ### Usage
 1. **Automate Login**:
-   The script automates the login process to Flipkart. Ensure you have your login credentials ready.
+   The script automates the login process to Flipkart. Ensure to have your login credentials ready.
 
 2. **Scrape Phone Details**:
-   The script scrapes details of a specific phone, including the number of reviews. You can modify the script to target different phones or extract additional details.
+   The script scrapes details of a specific phone, including the number of reviews. We can modify the script to target different phones or extract additional details.
 
 ### Example Code
 Here's a snippet of the code to get you started:
@@ -85,13 +85,9 @@ for detail in phone_details:
 driver.quit()
 ```
 
-### Customization
-Feel free to customize the script to suit your needs. You can modify the search parameters, extract additional details, or even extend the script to scrape data from other e-commerce sites.
-
 ## Conclusion
-This project demonstrates how to use web scraping tools to automate the process of finding the right phone on Flipkart. By leveraging Beautiful Soup, Selenium, and Scrapy, you can efficiently extract and analyze data, saving time and effort. We hope this project helps you in making informed purchasing decisions with ease.
+This project demonstrates how to use web scraping tools to automate the process of finding the right phone on Flipkart. By leveraging Beautiful Soup, Selenium, and Scrapy, we can efficiently extract and analyze data, saving time and effort. I hope this project helps you in making informed purchasing decisions with ease.
 
-If you have any questions or need further assistance, feel free to open an issue or contact us. Happy scraping!
 
 
 ![flipkart](https://user-images.githubusercontent.com/56337798/215659547-75779cb7-752c-4086-979b-269df2991c67.jpeg)
